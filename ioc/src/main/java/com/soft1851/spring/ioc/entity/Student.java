@@ -1,5 +1,11 @@
 package com.soft1851.spring.ioc.entity;
 
+import lombok.Data;
+
+import java.util.List;
+import java.util.Map;
+import java.util.Set;
+
 /**
  * @author Zeng
  * @ClassName Student
@@ -7,9 +13,13 @@ package com.soft1851.spring.ioc.entity;
  * @Date 2020/3/12
  * @Version 1.0
  **/
+@Data
 public class Student {
     private String name;
     private Phone phone;
+    private List<Phone> phones;
+    private Set<String> habbies;
+    private Map<String, Phone> phoneMap;
 
     public Student() {
     }
@@ -19,19 +29,13 @@ public class Student {
         this.phone = phone;
     }
 
-    public void setName(String name) {
-        this.name = name;
-    }
-
-    public void setPhone(Phone phone) {
-        this.phone = phone;
-    }
-
     @Override
     public String toString() {
         return "Student{" +
                 "name='" + name + '\'' +
-                ", phone=" + phone +
+                ", phones=" + phones +
+                ", habbies=" + habbies +
+                ", phoneMap=" + phoneMap +
                 '}';
     }
 }

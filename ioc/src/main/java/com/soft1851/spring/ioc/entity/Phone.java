@@ -19,6 +19,14 @@ public class Phone {
         this.price = price;
     }
 
+    public void setBrand(String brand) {
+        this.brand = brand;
+    }
+
+    public void setPrice(Double price) {
+        this.price = price;
+    }
+
     @Override
     public String toString() {
         return "Phone{" +
