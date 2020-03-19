@@ -18,7 +18,7 @@ public class Student {
     private String name;
     private Phone phone;
     private List<Phone> phones;
-    private Set<String> habbies;
+    private Set<String> hobbies;
     private Map<String, Phone> phoneMap;
 
     public Student() {
@@ -34,7 +34,7 @@ public class Student {
         return "Student{" +
                 "name='" + name + '\'' +
                 ", phones=" + phones +
-                ", habbies=" + habbies +
+                ", habbies=" + hobbies +
                 ", phoneMap=" + phoneMap +
                 '}';
     }

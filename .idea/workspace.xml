@@ -1,11 +1,73 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="web:war exploded" />
+    </artifacts-to-build>
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="7f17b3fc-8cdd-4ac2-969e-2f41e596d787" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/ioc/src/main/java/com/soft1851/spring/ioc/dao/PostDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ioc/src/main/java/com/soft1851/spring/ioc/dao/impl/PostDaoImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ioc/src/test/java/com/soft1851/spring/ioc/dao/PostDaoTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/web_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ioc/src/main/java/com/soft1851/spring/ioc/sort/Sort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ioc/src/main/java/com/soft1851/spring/ioc/sort/SortTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/main.2020-03-17-17.log.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/main.2020-03-17-21.log22120200535200.tmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/orm/src/main/java/com/soft1851/spring/orm/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/orm/src/main/java/com/soft1851/spring/orm/config/JdbcConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ioc/src/main/java/com/soft1851/spring/ioc/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/ioc/src/main/java/com/soft1851/spring/ioc/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ioc/src/main/java/com/soft1851/spring/ioc/config/AppConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/ioc/src/main/java/com/soft1851/spring/ioc/config/AppConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ioc/src/main/java/com/soft1851/spring/ioc/dao/ForumDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/orm/src/main/java/com/soft1851/spring/orm/dao/ForumDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ioc/src/main/java/com/soft1851/spring/ioc/dao/PostDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/orm/src/main/java/com/soft1851/spring/orm/dao/PostDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ioc/src/main/java/com/soft1851/spring/ioc/dao/impl/ForumDaoImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/orm/src/main/java/com/soft1851/spring/orm/dao/impl/ForumDaoImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ioc/src/main/java/com/soft1851/spring/ioc/dao/impl/PostDaoImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/orm/src/main/java/com/soft1851/spring/orm/dao/impl/PostDaoImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ioc/src/main/java/com/soft1851/spring/ioc/entity/Forum.java" beforeDir="false" afterPath="$PROJECT_DIR$/orm/src/main/java/com/soft1851/spring/orm/entity/Forum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ioc/src/main/java/com/soft1851/spring/ioc/entity/Post.java" beforeDir="false" afterPath="$PROJECT_DIR$/orm/src/main/java/com/soft1851/spring/orm/entity/Post.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ioc/src/main/java/com/soft1851/spring/ioc/entity/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/ioc/src/main/java/com/soft1851/spring/ioc/entity/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ioc/src/main/java/com/soft1851/spring/ioc/entity/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ioc/src/main/java/com/soft1851/spring/ioc/entity/UserLogin.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ioc/src/main/resources/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/orm/src/main/resources/applicationContext.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ioc/src/main/resources/beans.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ioc/src/main/resources/beans.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ioc/src/main/resources/db.properties" beforeDir="false" afterPath="$PROJECT_DIR$/orm/src/main/resources/db.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ioc/src/test/java/com/soft1851/spring/ioc/dao/ForumDaoTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/orm/src/test/java/com/soft1851/spring/orm/dao/ForumDaoTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ioc/src/test/java/com/soft1851/spring/ioc/dao/PostDaoTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/orm/src/test/java/com/soft1851/spring/orm/dao/PostDaoTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ioc/src/test/java/com/soft1851/spring/ioc/entity/StudentTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/ioc/src/test/java/com/soft1851/spring/ioc/entity/StudentTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ioc/target/classes/applicationContext.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ioc/target/classes/beans.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ioc/target/classes/com/soft1851/spring/ioc/App.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ioc/target/classes/com/soft1851/spring/ioc/StudentTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ioc/target/classes/com/soft1851/spring/ioc/config/AppConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ioc/target/classes/com/soft1851/spring/ioc/dao/ForumDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ioc/target/classes/com/soft1851/spring/ioc/dao/PostDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ioc/target/classes/com/soft1851/spring/ioc/dao/impl/ForumDaoImpl$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ioc/target/classes/com/soft1851/spring/ioc/dao/impl/ForumDaoImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ioc/target/classes/com/soft1851/spring/ioc/dao/impl/PostDaoImpl$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ioc/target/classes/com/soft1851/spring/ioc/dao/impl/PostDaoImpl$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ioc/target/classes/com/soft1851/spring/ioc/dao/impl/PostDaoImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ioc/target/classes/com/soft1851/spring/ioc/entity/Book.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ioc/target/classes/com/soft1851/spring/ioc/entity/Forum$ForumBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ioc/target/classes/com/soft1851/spring/ioc/entity/Forum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ioc/target/classes/com/soft1851/spring/ioc/entity/Phone.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ioc/target/classes/com/soft1851/spring/ioc/entity/Post$PostBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ioc/target/classes/com/soft1851/spring/ioc/entity/Post.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ioc/target/classes/com/soft1851/spring/ioc/entity/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ioc/target/classes/com/soft1851/spring/ioc/entity/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ioc/target/classes/com/soft1851/spring/ioc/entity/UserLogin.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ioc/target/classes/db.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ioc/target/classes/logback.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ioc/target/test-classes/com/soft1851/spring/ioc/dao/ForumDaoTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ioc/target/test-classes/com/soft1851/spring/ioc/dao/PostDaoTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ioc/target/test-classes/com/soft1851/spring/ioc/entity/BookTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ioc/target/test-classes/com/soft1851/spring/ioc/entity/StudentTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/main.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/main.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -40,6 +102,13 @@
         <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
         <item name="bbs: schema" type="76f4a085:MysqlImplModel$Schema" />
       </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="bbs@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="bbs: schema" type="76f4a085:MysqlImplModel$Schema" />
+        <item name="t_forum: table" type="285a2a93:MysqlImplModel$Table" />
+      </path>
     </expand>
     <select />
   </component>
@@ -54,6 +123,13 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -81,25 +157,31 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../zhihu-api" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/ioc/src/main/java/com/soft1851/spring/ioc" />
+    <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="database.main" />
+    <property name="settings.editor.selected.configurable" value="spring" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.soft1851.spring.orm.dao" />
       <recent name="com.soft1851.spring.ioc.dao" />
       <recent name="com.soft1851.spring.ioc.entity" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="F:\0 Java-Code\SpringStudy\spring-learning\ioc\src\main\java\com\soft1851\spring\ioc\entity" />
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.soft1851.spring.orm.dao" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\0 Java-Code\SpringStudy\spring-learning\ioc\src\main\java\com\soft1851\spring\ioc" />
+      <recent name="F:\0 Java-Code\SpringStudy\spring-learning\ioc\src\main\resources" />
     </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="F:\0 Java-Code\SpringStudy\spring-learning\ioc\src\main\resources" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\0 Java-Code\SpringStudy\spring-learning\orm\src\main\resources" />
+      <recent name="F:\0 Java-Code\SpringStudy\spring-learning\ioc\src\main\java\com\soft1851\spring\ioc\entity" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -114,94 +196,170 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.PostDaoTest.getByKeyword">
-    <configuration name="PostDaoTest.batchDelete" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.ForumDaoTest.selectAll">
+    <configuration name="SortTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.soft1851.spring.ioc.sort.SortTest" />
       <module name="ioc" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.soft1851.spring.ioc.dao.*" />
+          <option name="PATTERN" value="com.soft1851.spring.ioc.sort.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.soft1851.spring.ioc.dao" />
-      <option name="MAIN_CLASS_NAME" value="com.soft1851.spring.ioc.dao.PostDaoTest" />
-      <option name="METHOD_NAME" value="batchDelete" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PostDaoTest.batchInsert" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="ioc" />
+    <configuration name="ForumDaoTest.insert" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="orm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.soft1851.spring.ioc.dao.*" />
+          <option name="PATTERN" value="com.soft1851.spring.orm.dao.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.soft1851.spring.ioc.dao" />
-      <option name="MAIN_CLASS_NAME" value="com.soft1851.spring.ioc.dao.PostDaoTest" />
-      <option name="METHOD_NAME" value="batchInsert" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="PostDaoTest.delete" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="ioc" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.soft1851.spring.ioc.dao.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.soft1851.spring.ioc.dao" />
-      <option name="MAIN_CLASS_NAME" value="com.soft1851.spring.ioc.dao.PostDaoTest" />
-      <option name="METHOD_NAME" value="delete" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="PostDaoTest.getByKeyword" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="ioc" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.soft1851.spring.ioc.dao.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.soft1851.spring.ioc.dao" />
-      <option name="MAIN_CLASS_NAME" value="com.soft1851.spring.ioc.dao.PostDaoTest" />
-      <option name="METHOD_NAME" value="getByKeyword" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="PostDaoTest.insert" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="ioc" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.soft1851.spring.ioc.dao.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.soft1851.spring.ioc.dao" />
-      <option name="MAIN_CLASS_NAME" value="com.soft1851.spring.ioc.dao.PostDaoTest" />
+      <option name="PACKAGE_NAME" value="com.soft1851.spring.orm.dao" />
+      <option name="MAIN_CLASS_NAME" value="com.soft1851.spring.orm.dao.ForumDaoTest" />
       <option name="METHOD_NAME" value="insert" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ForumDaoTest.selectAll" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="orm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.soft1851.spring.orm.dao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.soft1851.spring.orm.dao" />
+      <option name="MAIN_CLASS_NAME" value="com.soft1851.spring.orm.dao.ForumDaoTest" />
+      <option name="METHOD_NAME" value="selectAll" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PostDaoTest.sum" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="orm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.soft1851.spring.orm.dao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.soft1851.spring.orm.dao" />
+      <option name="MAIN_CLASS_NAME" value="com.soft1851.spring.orm.dao.PostDaoTest" />
+      <option name="METHOD_NAME" value="sum" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StudentTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ioc" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.soft1851.spring.orm.entity.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.soft1851.spring.ioc.entity" />
+      <option name="MAIN_CLASS_NAME" value="com.soft1851.spring.ioc.entity.StudentTest" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tomcat 9.0.24" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.24" ALTERNATIVE_JRE_ENABLED="false">
+      <deployment>
+        <artifact name="web:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Tomcat_9_0_24_spring-learning" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="3810" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="web:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Tomcat Server.Tomcat 9.0.24" />
+      <item itemvalue="Application.SortTest" />
+      <item itemvalue="JUnit.StudentTest.test" />
+      <item itemvalue="JUnit.PostDaoTest.sum" />
+      <item itemvalue="JUnit.ForumDaoTest.insert" />
+      <item itemvalue="JUnit.ForumDaoTest.selectAll" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.PostDaoTest.getByKeyword" />
-        <item itemvalue="JUnit.PostDaoTest.batchDelete" />
-        <item itemvalue="JUnit.PostDaoTest.delete" />
-        <item itemvalue="JUnit.PostDaoTest.batchInsert" />
-        <item itemvalue="JUnit.PostDaoTest.insert" />
+        <item itemvalue="JUnit.ForumDaoTest.selectAll" />
+        <item itemvalue="JUnit.ForumDaoTest.insert" />
+        <item itemvalue="JUnit.PostDaoTest.sum" />
+        <item itemvalue="JUnit.StudentTest.test" />
+        <item itemvalue="Application.SortTest" />
       </list>
     </recent_temporary>
   </component>
@@ -216,7 +374,10 @@
       <option name="presentableId" value="Default" />
       <updated>1584406610249</updated>
       <workItem from="1584406611604" duration="17782000" />
-      <workItem from="1584440108079" duration="11377000" />
+      <workItem from="1584440108079" duration="15053000" />
+      <workItem from="1584516971532" duration="674000" />
+      <workItem from="1584540116296" duration="1381000" />
+      <workItem from="1584576683345" duration="17862000" />
     </task>
     <servers />
   </component>
