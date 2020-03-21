@@ -15,7 +15,21 @@ public interface ForumService {
 
     /**
      * 查询所有论坛
-     * @return
+     * @return List
      */
     List<Forum> selectAll();
+
+    /**
+     * 通过id查询论坛
+     * @param id
+     * @return Forum
+     */
+    Forum selectById(int id);
+
+    /**
+     * 通过关键字查询
+     * @param key
+     * @return List
+     */
+    List<Forum> getByKeyWord(String key);
 }

@@ -25,4 +25,14 @@ public class ForumServiceImpl implements ForumService {
     public List<Forum> selectAll() {
         return forumDao.selectAll();
     }
+
+    @Override
+    public Forum selectById(int id) {
+        return forumDao.get(id);
+    }
+
+    @Override
+    public List<Forum> getByKeyWord(String key) {
+        return forumDao.selectByKeyword(key);
+    }
 }

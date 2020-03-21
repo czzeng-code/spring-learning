@@ -82,4 +82,11 @@ public class ForumDaoImpl implements ForumDao {
         String sql = "SELECT * FROM t_forum ";
         return jdbcTemplate.query(sql, new BeanPropertyRowMapper<>(Forum.class));
     }
+
+    @Override
+    public List<Forum> selectByKeyword(String key) {
+        String sql = "SELECT * FROM t_forum WHERE " +
+                "forum_name LIKE '%" + key + "%' "  ;
+        return jdbcTemplate.query(sql, new BeanPropertyRowMapper<>(Forum.class));
+    }
 }

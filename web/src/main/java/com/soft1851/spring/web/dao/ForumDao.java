@@ -52,4 +52,11 @@ public interface ForumDao {
      * @return List<Forum>
      */
     List<Forum> selectAll();
+
+    /**
+     * 通过关键字查询
+     * @param key
+     * @return
+     */
+    List<Forum> selectByKeyword(String key);
 }
