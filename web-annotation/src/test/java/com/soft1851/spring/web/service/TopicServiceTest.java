@@ -29,6 +29,7 @@ public class TopicServiceTest {
     public void addTopic() {
         Topic topic = Topic.builder().id("192").topicName("sdsd").description("gu").followersCount(123).msgCount(666).topicIcon("www.icon.com")
                 .followed(false).build();
+        int a = 1/0;
         System.out.println(topic);
         topicService.addTopic(topic);
 
