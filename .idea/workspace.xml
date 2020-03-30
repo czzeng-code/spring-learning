@@ -7,27 +7,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7f17b3fc-8cdd-4ac2-969e-2f41e596d787" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/mybatis_xml_war_exploded.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mybatis-xml/mybatis-xml.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mybatis-xml/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mybatis-xml/src/main/java/com/soft1851/spring/mybatis/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mybatis-xml/src/main/java/com/soft1851/spring/mybatis/entity/Forum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mybatis-xml/src/main/java/com/soft1851/spring/mybatis/mapper/ForumMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mybatis-xml/src/main/java/com/soft1851/spring/mybatis/service/ForumService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mybatis-xml/src/main/java/com/soft1851/spring/mybatis/service/impl/ForumServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mybatis-xml/src/main/resources/jdbc.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mybatis-xml/src/main/resources/logback-test.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mybatis-xml/src/main/resources/mappers/ForumMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mybatis-xml/src/main/resources/mybatis-config.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mybatis-xml/src/main/resources/spring-mybatis.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mybatis-xml/src/test/java/com/soft1851/spring/mybatis/service/ForumServiceTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web-annotation/src/test/java/com/soft1851/spring/web/service/TopicServiceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/web-annotation/src/test/java/com/soft1851/spring/web/service/TopicServiceTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mybatis-xml/src/main/java/com/soft1851/spring/mybatis/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis-xml/src/main/java/com/soft1851/spring/mybatis/App.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -412,7 +392,7 @@
       <workItem from="1585295164642" duration="6876000" />
       <workItem from="1585363459714" duration="17006000" />
       <workItem from="1585452395565" duration="1757000" />
-      <workItem from="1585572792653" duration="1476000" />
+      <workItem from="1585572792653" duration="1842000" />
     </task>
     <task id="LOCAL-00001" summary="web模块">
       <created>1584720662749</created>
@@ -428,7 +408,14 @@
       <option name="project" value="LOCAL" />
       <updated>1585452646472</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="完成mybatis-xml版">
+      <created>1585574562308</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1585574562308</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -451,7 +438,8 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="web模块" />
     <MESSAGE value="springMVC-" />
-    <option name="LAST_COMMIT_MESSAGE" value="springMVC-" />
+    <MESSAGE value="完成mybatis-xml版" />
+    <option name="LAST_COMMIT_MESSAGE" value="完成mybatis-xml版" />
   </component>
   <component name="WindowStateProjectService">
     <state x="366" y="91" key="#HTTP_Proxy" timestamp="1585295281112">
@@ -482,10 +470,10 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="557" y="324" key="#com.intellij.javaee.module.view.web.EditWebRootDialog/0.0.1536.834@0.0.1536.834" timestamp="1585022009700" />
-    <state x="266" y="12" key="CommitChangelistDialog2" timestamp="1585452639591">
+    <state x="266" y="12" key="CommitChangelistDialog2" timestamp="1585574558362">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="266" y="12" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1585452639591" />
+    <state x="266" y="12" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1585574558362" />
     <state width="254" height="195" key="DatabaseViewActions_Filter" timestamp="1585188603635">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -550,10 +538,10 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="648" height="448" key="SwitcherDM/0.0.1536.834@0.0.1536.834" timestamp="1585052443492" />
-    <state x="361" y="150" key="Vcs.Push.Dialog.v2" timestamp="1584720667110">
+    <state x="361" y="150" key="Vcs.Push.Dialog.v2" timestamp="1585574567317">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="361" y="150" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1584720667110" />
+    <state x="361" y="150" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1585574567317" />
     <state x="485" y="57" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog" timestamp="1585188578830">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
